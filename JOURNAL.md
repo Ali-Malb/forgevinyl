@@ -1,1 +1,2 @@
 I'm creating a magnetic interactive "turntable" station for my fridge. Put a custom mini 3D printed/acrylic vinyl record (representing a favourite album) on the station, it reads a custom embedded NFC/RFID tag, flashes a custom coloured LED sequence mirroring the album's aesthetics and automatically plays the top track from its built-in MP3 module and speaker. I just finished designing  the pcb and I'm excited to make tha casing
+<img width="758" height="416" alt="image" src="https://github.com/user-attachments/assets/a92f7dcc-3aff-4a81-ad66-95a6fc90630d" />
