@@ -16,3 +16,4 @@ I'm creating a magnetic interactive "turntable" station for my fridge. Put a cus
 | **Custom 3D Enclosure & Lid** | 1 | 3D-printed casing body and snap-fit rear closure plate | [Local 3D Print File](casing/) |
 
 <img width="506" height="364" alt="image" src="https://github.com/user-attachments/assets/3cf94e5d-3501-49b8-91df-e1fd1987d082" />
+<img width="894" height="480" alt="image" src="https://github.com/user-attachments/assets/a91944a1-ea59-43e4-ad93-39674ac85a63" />
